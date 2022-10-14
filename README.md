@@ -10,3 +10,6 @@
 1. clickhouse
 2. elasticsearch5
 3. elasticsearch7
+
+#### 注意
+如果不需要区分es版本，可以集成bboss
